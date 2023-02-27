@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpsAccounting", "OpsAccounting.csproj", "{4C9FB4DB-F8A5-41A7-9D4E-B435796629BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailSyncOpsAccount", "..\OpsAccountingWF\MailSyncOpsAccount\MailSyncOpsAccount.csproj", "{F9A3264F-ACFF-4151-9269-64D8E28AA348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C9FB4DB-F8A5-41A7-9D4E-B435796629BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9FB4DB-F8A5-41A7-9D4E-B435796629BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9FB4DB-F8A5-41A7-9D4E-B435796629BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9FB4DB-F8A5-41A7-9D4E-B435796629BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A3264F-ACFF-4151-9269-64D8E28AA348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A3264F-ACFF-4151-9269-64D8E28AA348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A3264F-ACFF-4151-9269-64D8E28AA348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A3264F-ACFF-4151-9269-64D8E28AA348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0D172EA-CE17-4E60-8F3A-5E79FE75FEF5}
+	EndGlobalSection
+EndGlobal
